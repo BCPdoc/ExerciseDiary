@@ -33,7 +33,7 @@ function setFormContent(sets, date) {
         let len = sets.length;
         for (let i = 0 ; i < len; i++) {
             if (sets[i].Date == date) {
-                addExercise(sets[i].Name, sets[i].Weight, sets[i].Reps, sets[i].ExID);
+                addExercise(sets[i].Name, sets[i].Weight, sets[i].Reps, sets[i].Count, sets[i].Notes, sets[i].ExID);
             }
         }
     }
@@ -87,7 +87,7 @@ function addAllGroup(exs, gr) {
         let len = exs.length;
         for (let i = 0 ; i < len; i++) {
             if (exs[i].Group == gr) {
-                addExercise(sets[i].Name, sets[i].Weight, sets[i].Reps, sets[i].Sets, sets[i].Notes, sets[i].ExID);
+                addExercise(sets[i].Name, sets[i].Weight, sets[i].Reps, sets[i].Count, sets[i].Notes, sets[i].ExID);
             }
         }
     }

@@ -35,6 +35,8 @@ func setHandler(c *gin.Context) {
 		reps, _ = strconv.Atoi(formMap["reps"][i])
 		oneSet.Weight = weight
 		oneSet.Reps = reps
+		oneSet.Count = count
+		oneSet.Notes = notes
 
 		formData = append(formData, oneSet)
 	}

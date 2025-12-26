@@ -33,7 +33,7 @@ type Exercise struct {
 	Color  string          `db:"COLOR"`
 	Weight decimal.Decimal `db:"WEIGHT"`
 	Reps   int             `db:"REPS"`
-	Sets   int			   `db:"SETS"`
+	Count  int			   `db:"COUNT"`
 	Notes  string          `db:"NOTES"`
 }
 
@@ -45,7 +45,7 @@ type Set struct {
 	Color  string          `db:"COLOR"`
 	Weight decimal.Decimal `db:"WEIGHT"`
 	Reps   int             `db:"REPS"`
-	Sets   int             `db:"SETS"`
+	Count  int             `db:"COUNT"`
 	ExID   int
 	Notes  string          `db:"NOTES"`
 }

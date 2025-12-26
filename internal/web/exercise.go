@@ -52,12 +52,12 @@ func saveExerciseHandler(c *gin.Context) {
 	id := c.PostForm("id")
 	weight := c.PostForm("weight")
 	reps := c.PostForm("reps")
-	sets := c.PostForm("sets")
+	count := c.PostForm("count")
 
 	oneEx.ID, _ = strconv.Atoi(id)
 	oneEx.Weight, _ = decimal.NewFromString(weight)
 	oneEx.Reps, _ = strconv.Atoi(reps)
-	oneEx.Sets, _ = strconv.Atoi(sets)
+	oneEx.Count, _ = strconv.Atoi(count)
 
 	oneEx.Notes = c.PostForm("notes")
 	

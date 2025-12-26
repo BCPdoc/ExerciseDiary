@@ -111,7 +111,7 @@
                                                                 <p>Description: {{ .Descr }}</p>
                                                                 <p>Weight (default): {{ .Weight }}</p>
                                                                 <p>Reps (default): {{ .Reps }}</p>
-                                                                <p>Sets (default): {{ .Sets }}</p>
+                                                                <p>Count (default): {{ .Count }}</p>
                                                                 <p>Notes (default): {{ .Notes }}</p>
                                                             </div>
                                                             <div class="col">
@@ -122,8 +122,8 @@
                                                 </div>
                                             </div>
                                             <!-- End Modal -->
-                                            <button class="btn exercise-button" onclick='addExercise("{{ .Name }}", "{{ .Weight }}", "{{ .Reps }}", "{{ .Sets }}", "{{ .Notes }}")' title="Weight: {{ .Weight }}; Reps: {{ .Reps }};">{{ .Name }}</button>
-                                            <button class="btn add-exercise-button" onclick='addExercise("{{ .Name }}", "{{ .Weight }}", "{{ .Reps }}", "{{ .Sets }}", "{{ .Notes }}")' title="Add">
+                                            <button class="btn exercise-button" onclick='addExercise("{{ .Name }}", "{{ .Weight }}", "{{ .Reps }}", "{{ .Count }}", "{{ .Notes }}")' title="Weight: {{ .Weight }}; Reps: {{ .Reps }};">{{ .Name }}</button>
+                                            <button class="btn add-exercise-button" onclick='addExercise("{{ .Name }}", "{{ .Weight }}", "{{ .Reps }}", "{{ .Count }}", "{{ .Notes }}")' title="Add">
                                                 <i class="bi bi-arrow-right-square"></i>
                                             </button>
                                         </div>
@@ -168,7 +168,7 @@
                                     <th class="col-5">Name</th>
                                     <th class="col-3">Weight</th>
                                     <th class="col-3">Reps</th>
-                                    <th class="col-3">Sets</th>
+                                    <th class="col-3">Count</th>
                                     <th class="col-5">Notes</th>
                                     <th class="col-1"></th>
                                     </thead>

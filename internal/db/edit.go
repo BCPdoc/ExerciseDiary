@@ -19,7 +19,7 @@ func Create(path string) {
 		"COLOR"		TEXT,
 		"WEIGHT"	INTEGER,
 		"REPS"		INTEGER,
-		"SETS"		INTEGER,
+		"COUNT"		INTEGER,
 		"NOTES"		TEXT
 	);`
 	exec(path, sqlStatement)
@@ -31,7 +31,7 @@ func Create(path string) {
 		"COLOR"		TEXT,
 		"WEIGHT"	INTEGER,
 		"REPS"		INTEGER,
-		"SETS"		INTEGER,
+		"COUNT"		INTEGER,
 		"NOTES"		TEXT
 	);`
 	exec(path, sqlStatement)
@@ -47,14 +47,14 @@ func Create(path string) {
 // InsertEx - insert one exercise into DB
 func InsertEx(path string, ex models.Exercise) {
 
-	sqlStatement := `INSERT INTO exercises (GR, PLACE, NAME, DESCR, IMAGE, COLOR, WEIGHT, REPS, NOTES) 
-	VALUES ('%s','%s','%s','%s','%s','%s','%v','%d','%s');`
+	sqlStatement := `INSERT INTO exercises (GR, PLACE, NAME, DESCR, IMAGE, COLOR, WEIGHT, REPS, COUNT, NOTES) 
+	                              VALUES ('%s',  '%s', '%s',  '%s',  '%s',  '%s',   '%v', '%d', '%d',  '%s');`
 
 	ex.Group = quoteStr(ex.Group)
 	ex.Name = quoteStr(ex.Name)
 	ex.Descr = quoteStr(ex.Descr)
 
-	sqlStatement = fmt.Sprintf(sqlStatement, ex.Group, ex.Place, ex.Name, ex.Descr, ex.Image, ex.Color, ex.Weight, ex.Reps, ex.Notes)
+	sqlStatement = fmt.Sprintf(sqlStatement, ex.Group, ex.Place, ex.Name, ex.Descr, ex.Image, ex.Color, ex.Weight, ex.Reps, ex.Count, ex.Notes)
 
 	exec(path, sqlStatement)
 }
@@ -62,10 +62,10 @@ func InsertEx(path string, ex models.Exercise) {
 func UpdateEx(path string, ex models.Set) {
 
 	sqlStatement := `UPDATE exercises 
-					SET WEIGHT = '%s', REPS = '%d', SETS = '%d', NOTES = '%s'
+					SET WEIGHT = '%s', REPS = '%d', COUNT = '%d', NOTES = '%s'
 					WHERE id = '%d';`
 
-	sqlStatement = fmt.Sprintf(sqlStatement, ex.Weight, ex.Reps, ex.Sets, ex.Notes, ex.ExID)
+	sqlStatement = fmt.Sprintf(sqlStatement, ex.Weight, ex.Reps, ex.Count, ex.Notes, ex.ExID)
 
 	exec(path,sqlStatement)
 }
@@ -73,8 +73,8 @@ func UpdateEx(path string, ex models.Set) {
 // InsertSet - insert one set into DB
 func InsertSet(path string, ex models.Set) {
 
-	sqlStatement := `INSERT INTO sets (DATE, NAME, COLOR, WEIGHT, REPS, SETS, NOTES) 
-	VALUES ('%s','%s','%s','%v','%d', '%d', '%s');`
+	sqlStatement := `INSERT INTO sets (DATE, NAME, COLOR, WEIGHT, REPS, COUNT, NOTES) 
+	                           VALUES ('%s', '%s',  '%s',   '%v', '%d', '%d',  '%s');`
 
 	ex.Name = quoteStr(ex.Name)
 
