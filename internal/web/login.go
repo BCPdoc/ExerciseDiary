@@ -6,8 +6,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/aceberg/ExerciseDiary/internal/auth"
-	"github.com/aceberg/ExerciseDiary/internal/models"
+	"github.com/bcpdoc/ExerciseDiary/internal/auth"
+	"github.com/bcpdoc/ExerciseDiary/internal/models"
 )
 
 func loginHandler(c *gin.Context) {

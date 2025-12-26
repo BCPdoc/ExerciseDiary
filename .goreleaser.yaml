@@ -28,9 +28,9 @@ builds:
         goarch: arm
 
 nfpms:
-  - maintainer: aceberg <aceberg_a@proton.me>
+  - maintainer: bcpdoc <bpcdoc>
     description: Workout diary with GitHub-style year visualization  
-    homepage: https://github.com/aceberg/ExerciseDiary
+    homepage: https://github.com/bcpdoc/ExerciseDiary
     license: MIT
     section: utils
     formats:

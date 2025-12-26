@@ -1,4 +1,4 @@
-module github.com/aceberg/ExerciseDiary
+module github.com/bcpdoc/ExerciseDiary
 
 go 1.23.2
 

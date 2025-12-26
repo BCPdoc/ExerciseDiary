@@ -1,6 +1,6 @@
 [Unit]
 Description=ExerciseDiary
-Documentation=https://github.com/aceberg/ExerciseDiary
+Documentation=https://github.com/bcpdoc/ExerciseDiary
 After=network-online.target
 Wants=network-online.target
 

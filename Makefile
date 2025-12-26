@@ -1,5 +1,5 @@
 PKG_NAME=ExerciseDiary
-USR_NAME=aceberg
+USR_NAME=bcpdoc
 
 mod:
 	rm go.mod || true && \

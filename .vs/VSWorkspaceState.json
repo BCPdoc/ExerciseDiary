@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\internal",
+    "\\internal\\auth",
+    "\\internal\\check",
+    "\\internal\\models",
+    "\\internal\\web",
+    "\\internal\\web\\public",
+    "\\internal\\web\\public\\css",
+    "\\internal\\web\\public\\js",
+    "\\internal\\web\\templates"
+  ],
+  "SelectedNode": "\\internal\\web\\exercise.go",
+  "PreviewInSolutionExplorer": false
+}

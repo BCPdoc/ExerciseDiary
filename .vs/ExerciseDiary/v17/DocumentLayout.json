@@ -1,0 +1,1044 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\exercise.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\exercise.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\exercise.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\templates\\exercise.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\webstorm\\internal\\web\\public\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:webstorm\\internal\\web\\public\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\public\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\webstorm\\internal\\web\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:webstorm\\internal\\web\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\edit.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\db\\edit.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\webstorm\\internal\\web\\templates\\exercise.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:webstorm\\internal\\web\\templates\\exercise.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\models\\models.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\models\\models.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\.vs\\ExerciseDiary\\v17\\DocumentLayout.backup.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\ExerciseDiary\\v17\\DocumentLayout.backup.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\config.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\templates\\config.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\config.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\config.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\stats.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\templates\\stats.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\templates\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\set.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\set.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\index.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\index.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\stats.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\stats.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\weight.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\weight.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\sqlite.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\db\\sqlite.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\bulk.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\db\\bulk.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\login.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\login.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\webgui.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\webgui.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\header.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\templates\\header.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\templates\\footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\weight.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\templates\\weight.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\js\\weight.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\public\\js\\weight.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\js\\weight-chart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\public\\js\\weight-chart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\js\\stats.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\public\\js\\stats.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\js\\heatmap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\public\\js\\heatmap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\public\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\css\\config.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\public\\css\\config.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\quote_str.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\db\\quote_str.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\conf\\getconfig.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\conf\\getconfig.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\check\\path.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\check\\path.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\check\\error.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\check\\error.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\auth\\timeparse.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\auth\\timeparse.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\auth\\session.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\auth\\session.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\auth\\models-vars.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\auth\\models-vars.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\auth\\hash.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\auth\\hash.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\auth\\cookie.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\auth\\cookie.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\auth\\auth.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\auth\\auth.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\docs\\ROADMAP.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\ROADMAP.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\docs\\BCRYPT.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\BCRYPT.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\configs\\ExerciseDiary@.service||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:configs\\ExerciseDiary@.service||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\configs\\ExerciseDiary.service||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:configs\\ExerciseDiary.service||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\cmd\\ExerciseDiary\\main.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cmd\\ExerciseDiary\\main.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\configs\\postinstall.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:configs\\postinstall.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\configs\\install.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:configs\\install.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\docker-compose-local.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docker-compose-local.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\.github\\FUNDING.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\FUNDING.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\heatmap.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\heatmap.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\go.mod||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:go.mod||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\const-var.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\const-var.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\CHANGELOG.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CHANGELOG.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\.goreleaser.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.goreleaser.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\.version||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.version||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\Dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\webstorm\\internal\\web\\public\\js\\index.js",
+              "RelativeDocumentMoniker": "webstorm\\internal\\web\\public\\js\\index.js",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\webstorm\\internal\\web\\public\\js\\index.js",
+              "RelativeToolTip": "webstorm\\internal\\web\\public\\js\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-26T01:13:49.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\webstorm\\internal\\web\\templates\\index.html",
+              "RelativeDocumentMoniker": "webstorm\\internal\\web\\templates\\index.html",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\webstorm\\internal\\web\\templates\\index.html",
+              "RelativeToolTip": "webstorm\\internal\\web\\templates\\index.html",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAgwIMAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-26T00:48:27.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "exercise.html",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\webstorm\\internal\\web\\templates\\exercise.html",
+              "RelativeDocumentMoniker": "webstorm\\internal\\web\\templates\\exercise.html",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\webstorm\\internal\\web\\templates\\exercise.html",
+              "RelativeToolTip": "webstorm\\internal\\web\\templates\\exercise.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-26T00:47:29.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DocumentLayout.backup.json",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\.vs\\ExerciseDiary\\v17\\DocumentLayout.backup.json",
+              "RelativeDocumentMoniker": ".vs\\ExerciseDiary\\v17\\DocumentLayout.backup.json",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\.vs\\ExerciseDiary\\v17\\DocumentLayout.backup.json",
+              "RelativeToolTip": ".vs\\ExerciseDiary\\v17\\DocumentLayout.backup.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-25T19:25:46.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\index.html",
+              "RelativeDocumentMoniker": "internal\\web\\templates\\index.html",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\index.html",
+              "RelativeToolTip": "internal\\web\\templates\\index.html",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAgwIUAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-25T03:54:04.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "set.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\set.go",
+              "RelativeDocumentMoniker": "internal\\web\\set.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\set.go",
+              "RelativeToolTip": "internal\\web\\set.go",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:24:00.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "edit.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\edit.go",
+              "RelativeDocumentMoniker": "internal\\db\\edit.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\edit.go",
+              "RelativeToolTip": "internal\\db\\edit.go",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAgwH4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:07:26.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "config.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\config.go",
+              "RelativeDocumentMoniker": "internal\\web\\config.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\config.go",
+              "RelativeToolTip": "internal\\web\\config.go",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:22:18.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "config.html",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\config.html",
+              "RelativeDocumentMoniker": "internal\\web\\templates\\config.html",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\config.html",
+              "RelativeToolTip": "internal\\web\\templates\\config.html",
+              "ViewState": "AgIAADMAAAAAAAAAAAAgwEoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-25T01:22:24.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\js\\index.js",
+              "RelativeDocumentMoniker": "internal\\web\\public\\js\\index.js",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\js\\index.js",
+              "RelativeToolTip": "internal\\web\\public\\js\\index.js",
+              "ViewState": "AgIAADwAAAAAAAAAAAAuwFAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-25T03:50:09.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "exercise.html",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\exercise.html",
+              "RelativeDocumentMoniker": "internal\\web\\templates\\exercise.html",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\exercise.html",
+              "RelativeToolTip": "internal\\web\\templates\\exercise.html",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-25T03:53:56.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\login.html",
+              "RelativeDocumentMoniker": "internal\\web\\templates\\login.html",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\login.html",
+              "RelativeToolTip": "internal\\web\\templates\\login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-25T03:54:50.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exercise.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\exercise.go",
+              "RelativeDocumentMoniker": "internal\\web\\exercise.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\exercise.go",
+              "RelativeToolTip": "internal\\web\\exercise.go",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:22:37.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "index.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\index.go",
+              "RelativeDocumentMoniker": "internal\\web\\index.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\index.go",
+              "RelativeToolTip": "internal\\web\\index.go",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:23:09.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "stats.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\stats.go",
+              "RelativeDocumentMoniker": "internal\\web\\stats.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\stats.go",
+              "RelativeToolTip": "internal\\web\\stats.go",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:24:07.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "models.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\models\\models.go",
+              "RelativeDocumentMoniker": "internal\\models\\models.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\models\\models.go",
+              "RelativeToolTip": "internal\\models\\models.go",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAADEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:23:14.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "weight.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\weight.go",
+              "RelativeDocumentMoniker": "internal\\web\\weight.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\weight.go",
+              "RelativeToolTip": "internal\\web\\weight.go",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:24:11.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "stats.html",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\stats.html",
+              "RelativeDocumentMoniker": "internal\\web\\templates\\stats.html",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\stats.html",
+              "RelativeToolTip": "internal\\web\\templates\\stats.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-25T03:54:52.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "sqlite.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\sqlite.go",
+              "RelativeDocumentMoniker": "internal\\db\\sqlite.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\sqlite.go",
+              "RelativeToolTip": "internal\\db\\sqlite.go",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:24:04.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bulk.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\bulk.go",
+              "RelativeDocumentMoniker": "internal\\db\\bulk.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\bulk.go",
+              "RelativeToolTip": "internal\\db\\bulk.go",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:07:19.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "login.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\login.go",
+              "RelativeDocumentMoniker": "internal\\web\\login.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\login.go",
+              "RelativeToolTip": "internal\\web\\login.go",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:23:11.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "webgui.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\webgui.go",
+              "RelativeDocumentMoniker": "internal\\web\\webgui.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\webgui.go",
+              "RelativeToolTip": "internal\\web\\webgui.go",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:24:08.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "header.html",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\header.html",
+              "RelativeDocumentMoniker": "internal\\web\\templates\\header.html",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\header.html",
+              "RelativeToolTip": "internal\\web\\templates\\header.html",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-25T01:22:49.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "footer.html",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\footer.html",
+              "RelativeDocumentMoniker": "internal\\web\\templates\\footer.html",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\footer.html",
+              "RelativeToolTip": "internal\\web\\templates\\footer.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-25T04:05:58.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "weight.html",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\weight.html",
+              "RelativeDocumentMoniker": "internal\\web\\templates\\weight.html",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\weight.html",
+              "RelativeToolTip": "internal\\web\\templates\\weight.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-25T03:55:34.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "weight.js",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\js\\weight.js",
+              "RelativeDocumentMoniker": "internal\\web\\public\\js\\weight.js",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\js\\weight.js",
+              "RelativeToolTip": "internal\\web\\public\\js\\weight.js",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-25T03:53:37.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "weight-chart.js",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\js\\weight-chart.js",
+              "RelativeDocumentMoniker": "internal\\web\\public\\js\\weight-chart.js",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\js\\weight-chart.js",
+              "RelativeToolTip": "internal\\web\\public\\js\\weight-chart.js",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-25T03:53:33.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "stats.js",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\js\\stats.js",
+              "RelativeDocumentMoniker": "internal\\web\\public\\js\\stats.js",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\js\\stats.js",
+              "RelativeToolTip": "internal\\web\\public\\js\\stats.js",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-25T03:53:26.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "heatmap.js",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\js\\heatmap.js",
+              "RelativeDocumentMoniker": "internal\\web\\public\\js\\heatmap.js",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\js\\heatmap.js",
+              "RelativeToolTip": "internal\\web\\public\\js\\heatmap.js",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-25T03:50:05.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\css\\index.css",
+              "RelativeDocumentMoniker": "internal\\web\\public\\css\\index.css",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\css\\index.css",
+              "RelativeToolTip": "internal\\web\\public\\css\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-25T03:49:41.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "config.css",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\css\\config.css",
+              "RelativeDocumentMoniker": "internal\\web\\public\\css\\config.css",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\css\\config.css",
+              "RelativeToolTip": "internal\\web\\public\\css\\config.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-25T03:49:37.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "path.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\check\\path.go",
+              "RelativeDocumentMoniker": "internal\\check\\path.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\check\\path.go",
+              "RelativeToolTip": "internal\\check\\path.go",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T02:00:02.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "error.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\check\\error.go",
+              "RelativeDocumentMoniker": "internal\\check\\error.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\check\\error.go",
+              "RelativeToolTip": "internal\\check\\error.go",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T02:00:00.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "timeparse.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\auth\\timeparse.go",
+              "RelativeDocumentMoniker": "internal\\auth\\timeparse.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\auth\\timeparse.go",
+              "RelativeToolTip": "internal\\auth\\timeparse.go",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:59:56.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "session.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\auth\\session.go",
+              "RelativeDocumentMoniker": "internal\\auth\\session.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\auth\\session.go",
+              "RelativeToolTip": "internal\\auth\\session.go",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:59:53.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "models-vars.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\auth\\models-vars.go",
+              "RelativeDocumentMoniker": "internal\\auth\\models-vars.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\auth\\models-vars.go",
+              "RelativeToolTip": "internal\\auth\\models-vars.go",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:59:50.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "hash.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\auth\\hash.go",
+              "RelativeDocumentMoniker": "internal\\auth\\hash.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\auth\\hash.go",
+              "RelativeToolTip": "internal\\auth\\hash.go",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:59:46.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "auth.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\auth\\auth.go",
+              "RelativeDocumentMoniker": "internal\\auth\\auth.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\auth\\auth.go",
+              "RelativeToolTip": "internal\\auth\\auth.go",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:59:41.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "cookie.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\auth\\cookie.go",
+              "RelativeDocumentMoniker": "internal\\auth\\cookie.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\auth\\cookie.go",
+              "RelativeToolTip": "internal\\auth\\cookie.go",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:58:10.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "getconfig.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\conf\\getconfig.go",
+              "RelativeDocumentMoniker": "internal\\conf\\getconfig.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\conf\\getconfig.go",
+              "RelativeToolTip": "internal\\conf\\getconfig.go",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:07:04.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "quote_str.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\quote_str.go",
+              "RelativeDocumentMoniker": "internal\\db\\quote_str.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\quote_str.go",
+              "RelativeToolTip": "internal\\db\\quote_str.go",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:57:54.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BCRYPT.md",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\docs\\BCRYPT.md",
+              "RelativeDocumentMoniker": "docs\\BCRYPT.md",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\docs\\BCRYPT.md",
+              "RelativeToolTip": "docs\\BCRYPT.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-25T01:59:35.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "postinstall.sh",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\configs\\postinstall.sh",
+              "RelativeDocumentMoniker": "configs\\postinstall.sh",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\configs\\postinstall.sh",
+              "RelativeToolTip": "configs\\postinstall.sh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:58:19.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "install.sh",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\configs\\install.sh",
+              "RelativeDocumentMoniker": "configs\\install.sh",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\configs\\install.sh",
+              "RelativeToolTip": "configs\\install.sh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:58:18.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ExerciseDiary.service",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\configs\\ExerciseDiary.service",
+              "RelativeDocumentMoniker": "configs\\ExerciseDiary.service",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\configs\\ExerciseDiary.service",
+              "RelativeToolTip": "configs\\ExerciseDiary.service",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:22:39.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "main.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\cmd\\ExerciseDiary\\main.go",
+              "RelativeDocumentMoniker": "cmd\\ExerciseDiary\\main.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\cmd\\ExerciseDiary\\main.go",
+              "RelativeToolTip": "cmd\\ExerciseDiary\\main.go",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:06:37.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ExerciseDiary@.service",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\configs\\ExerciseDiary@.service",
+              "RelativeDocumentMoniker": "configs\\ExerciseDiary@.service",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\configs\\ExerciseDiary@.service",
+              "RelativeToolTip": "configs\\ExerciseDiary@.service",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:22:41.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ROADMAP.md",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\docs\\ROADMAP.md",
+              "RelativeDocumentMoniker": "docs\\ROADMAP.md",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\docs\\ROADMAP.md",
+              "RelativeToolTip": "docs\\ROADMAP.md",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-25T01:23:54.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "docker-compose-local.yml",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\docker-compose-local.yml",
+              "RelativeDocumentMoniker": "docker-compose-local.yml",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\docker-compose-local.yml",
+              "RelativeToolTip": "docker-compose-local.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-12-25T01:11:49.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FUNDING.yml",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\.github\\FUNDING.yml",
+              "RelativeDocumentMoniker": ".github\\FUNDING.yml",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\.github\\FUNDING.yml",
+              "RelativeToolTip": ".github\\FUNDING.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-12-25T01:22:43.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-25T01:23:17.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-12-25T01:11:29.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "heatmap.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\heatmap.go",
+              "RelativeDocumentMoniker": "internal\\web\\heatmap.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\heatmap.go",
+              "RelativeToolTip": "internal\\web\\heatmap.go",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:23:06.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "go.mod",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\go.mod",
+              "RelativeDocumentMoniker": "go.mod",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\go.mod",
+              "RelativeToolTip": "go.mod",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAVvSURBVFhH7ZZdbFN1GMZ/Xdd1Zw7HOkBxQGAOkAjMKwgmKiTGC7OE4NAbSDR\u002BZSrrYCADWRgfYxqck42hJktMTOCCCMVLCMQbQwS/SIctXxUGbhCQVaSwbjvnvK8X7bquHziJ0RufpDf///m/z/N/3uc9PfBfQlVTl/7Hvw5H6kIgEFCPx4PT6UREUrezQMnJcWKaJt3d3bS0tKw5dOjQrtSnxoRgMKgiovcD0zQ1GAzq8ePHtaqqal1q7TEhGAzq4OCgqqqKiIrYatvZfpZa1shPVTUUCun58\u002Bc1EAjYy5YtW5PJ5XtitIBUwhHiVPJhAd3dl/Tq1atqWZb6/X5dsWLFaiA3lWcYOakLycg8pYpqpr3YwtCQycDAAE6nk2nTplFdXf3x8uXL67KJSLMnGAxqWVkZbrc7Ywgzvztia05nLmfPnuWnn34AclBVCgsLyc3NpbKysgy4DvQnnxyTgIb3Y4EOnTsDcWdUFFUbEUVEENuibNYsLMtmz4fbuXHjBuFwmP7\u002Bfnp6enTp0qXPAmeAa8l8GW3JhOZNa3hx5ZuMX7sNhyXkOGwcqjgMNzKkXN5ay67mRlat34xpmkycOJFJkyYBUFhYqEB\u002BJr57ZiCGmL0bmz5CVZgX7WU2Nyk1lEfG5VN8/RZ67BQiwqr1m9G4a5ZlYZqDgDJ16tThQmn9\u002BwsBw4FTmjetBcAduUtOOMqdXy2il36j58BeFv3xEQAdO7cl5UYTHTZNM1ExFVkEKKoxcuLB27CtBRFh8Hs3P5zI4crRIOd/cRDsHeDJvC5EhLfqNmGLPWpSYjXSLp5ARgGpQVdRPti8DsuyeOXb92k8\u002Bikrz\u002B7loXE/8vQSg9CtqZjmEJ\u002B27oiHM3HynuRkm4IZM2YkTYGycXsrojbnAj9zrecyoqAqqMQIbBFKJkyi/LE5IMonrc0JYpfLRSQSkaKi8ZXAaaAnmS\u002BjAyOIFVEVPtyyAVXl9prD3Hr3CAXVX7HopX3MXNpC2dw5iG3R2bYz0YJRVe5hQhYBsZsN91BEqGvYgW1ZFMkAnjsmheYd8m9fYGj2bHqf24GI8uo7daNeXvedAVJUqyqtTZsQEYz8B3igAIYmPsh3zywiMn4cRROmYIvy\u002BZ7WxJtydA6yI6OAVMtEhdXvbUVVeSrnS54YH6CowMnD/QW4vzuGtedtUOHl6lpUZMzkZBMwgngrbJtdzY2Ypsndi8WYl/rIvXQN15VvuPn1fiqL92NZFl981oZqLLhjISfbFEyfPh23Ow\u002BJ36auoQkRIeA/BYneCiqCLYKqYg0NMfvxuagqn3/Smqjncrm4fTsixcXFGacgq4C8vJiAGEZukylU2SxXBZcrl0gkIsXFnrELsCyLjo4OlixZQlXVC5w4cYK9e/fh9XoB6OzsxOPxUFBg8Prrb9DZ2UkoFALA660hP9/A5/MRCoUwDIMtWxqzCsiagZISD36/H4CurtN4PJ7E3pQppdTX16MKvb2xel5vDe3tbZSXl\u002BPz\u002BZg3by5tbbtoatqeOJcJWQQoHk8JBQUGfn8XfX19lJSMCOjrC\u002BPz\u002BYhGo5SWlgLQ3r4br7cWVQiFQixevJjduztYu3YdFy9eTHN6GFkExLBgwUIOHjzIwoULRq0bhsH8\u002BfOor1\u002BPYRgQd6CtrS0u3sPJkyepqVnFzJkzR51NRZqA5H/BiooKwuEwFRUVSU8IhmFQXv7oqHFrb99NbW0tFy5c4LXXXuXw4SPU1q6mry\u002BM2\u002B0e\u002B1wGAoGkL/1/DsDzwJRUvrTeNDQ0HJg8efIEtzuvSDWmWhUcDtIukWkkhzHsotPpdESjUampqWkEuoAryc\u002BlCYijCJgGpH8W/304ACdgAVeB35M3/wT9rM0fyHUAGgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-12-25T01:22:45.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "const-var.go",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\const-var.go",
+              "RelativeDocumentMoniker": "internal\\web\\const-var.go",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\const-var.go",
+              "RelativeToolTip": "internal\\web\\const-var.go",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:22:33.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CHANGELOG.md",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\CHANGELOG.md",
+              "RelativeDocumentMoniker": "CHANGELOG.md",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\CHANGELOG.md",
+              "RelativeToolTip": "CHANGELOG.md",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-25T01:22:16.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": ".goreleaser.yaml",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\.goreleaser.yaml",
+              "RelativeDocumentMoniker": ".goreleaser.yaml",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\.goreleaser.yaml",
+              "RelativeToolTip": ".goreleaser.yaml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-12-25T01:21:37.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": ".version",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\.version",
+              "RelativeDocumentMoniker": ".version",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\.version",
+              "RelativeToolTip": ".version",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:20:40.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Makefile",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\Makefile",
+              "RelativeDocumentMoniker": "Makefile",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\Makefile",
+              "RelativeToolTip": "Makefile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:12:50.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-25T01:11:17.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

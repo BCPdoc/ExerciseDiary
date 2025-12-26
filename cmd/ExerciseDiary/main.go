@@ -5,7 +5,7 @@ import (
 
 	_ "time/tzdata"
 
-	"github.com/aceberg/ExerciseDiary/internal/web"
+	"github.com/bcpdoc/ExerciseDiary/internal/web"
 )
 
 const dirPath = "/data/ExerciseDiary"

@@ -3,7 +3,7 @@ package models
 import (
 	"github.com/shopspring/decimal"
 
-	"github.com/aceberg/ExerciseDiary/internal/auth"
+	"github.com/bcpdoc/ExerciseDiary/internal/auth"
 )
 
 // Conf - web gui config
@@ -33,6 +33,8 @@ type Exercise struct {
 	Color  string          `db:"COLOR"`
 	Weight decimal.Decimal `db:"WEIGHT"`
 	Reps   int             `db:"REPS"`
+	Sets   int			   `db:"SETS"`
+	Notes  string          `db:"NOTES"`
 }
 
 // Set - one set
@@ -43,6 +45,9 @@ type Set struct {
 	Color  string          `db:"COLOR"`
 	Weight decimal.Decimal `db:"WEIGHT"`
 	Reps   int             `db:"REPS"`
+	Sets   int             `db:"SETS"`
+	ExID   int
+	Notes  string          `db:"NOTES"`
 }
 
 // AllExData - all sets and exercises

@@ -7,10 +7,10 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/aceberg/ExerciseDiary/internal/auth"
-	"github.com/aceberg/ExerciseDiary/internal/check"
-	"github.com/aceberg/ExerciseDiary/internal/conf"
-	"github.com/aceberg/ExerciseDiary/internal/db"
+	"github.com/bcpdoc/ExerciseDiary/internal/auth"
+	"github.com/bcpdoc/ExerciseDiary/internal/check"
+	"github.com/bcpdoc/ExerciseDiary/internal/conf"
+	"github.com/bcpdoc/ExerciseDiary/internal/db"
 )
 
 // Gui - start web server

@@ -1,24 +1,24 @@
 version: "3"
 services:
   node-bootstrap:
-    image: aceberg/node-bootstrap
+    image: bcpdoc/node-bootstrap
     restart: unless-stopped
     ports:
     - 8850:8850
     volumes:
     - ~/.dockerdata/icons:/app/icons  # For local icons
   exdiary:
-    image: aceberg/exercisediary
+    image: bcpdoc/exercisediary
     restart: unless-stopped
     ports:
     - 8851:8851
-    command: "-n http://YOUR_IP:8850" # Put your server IP or DNS name here
+    command: "-n http://0.0.0.0:8850" # Put your server IP or DNS name here
     depends_on:
       - node-bootstrap
     volumes:
     - ~/.dockerdata/ExerciseDiary:/data/ExerciseDiary       # app data (set your own path instead of dockerdata)
     environment:
-      TZ: Asia/Novosibirsk    # required, default ""
+      TZ: America/Los_Angeles # required, default ""
       HOST: "0.0.0.0"         # optional, default: 0.0.0.0
       PORT: "8851"            # optional, default: 8851
       THEME: "grass"          # optional, default: grass

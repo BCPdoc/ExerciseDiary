@@ -3,7 +3,7 @@ package db
 import (
 	"fmt"
 
-	"github.com/aceberg/ExerciseDiary/internal/models"
+	"github.com/bcpdoc/ExerciseDiary/internal/models"
 )
 
 // Create - create table if not exists
@@ -18,7 +18,9 @@ func Create(path string) {
 		"IMAGE"		TEXT,
 		"COLOR"		TEXT,
 		"WEIGHT"	INTEGER,
-		"REPS"		INTEGER
+		"REPS"		INTEGER,
+		"SETS"		INTEGER,
+		"NOTES"		TEXT
 	);`
 	exec(path, sqlStatement)
 
@@ -28,7 +30,9 @@ func Create(path string) {
 		"NAME"		TEXT,
 		"COLOR"		TEXT,
 		"WEIGHT"	INTEGER,
-		"REPS"		INTEGER
+		"REPS"		INTEGER,
+		"SETS"		INTEGER,
+		"NOTES"		TEXT
 	);`
 	exec(path, sqlStatement)
 
@@ -43,23 +47,34 @@ func Create(path string) {
 // InsertEx - insert one exercise into DB
 func InsertEx(path string, ex models.Exercise) {
 
-	sqlStatement := `INSERT INTO exercises (GR, PLACE, NAME, DESCR, IMAGE, COLOR, WEIGHT, REPS) 
-	VALUES ('%s','%s','%s','%s','%s','%s','%v','%d');`
+	sqlStatement := `INSERT INTO exercises (GR, PLACE, NAME, DESCR, IMAGE, COLOR, WEIGHT, REPS, NOTES) 
+	VALUES ('%s','%s','%s','%s','%s','%s','%v','%d','%s');`
 
 	ex.Group = quoteStr(ex.Group)
 	ex.Name = quoteStr(ex.Name)
 	ex.Descr = quoteStr(ex.Descr)
 
-	sqlStatement = fmt.Sprintf(sqlStatement, ex.Group, ex.Place, ex.Name, ex.Descr, ex.Image, ex.Color, ex.Weight, ex.Reps)
+	sqlStatement = fmt.Sprintf(sqlStatement, ex.Group, ex.Place, ex.Name, ex.Descr, ex.Image, ex.Color, ex.Weight, ex.Reps, ex.Notes)
 
 	exec(path, sqlStatement)
+}
+// UpdateEx - update default values into DB
+func UpdateEx(path string, ex models.Set) {
+
+	sqlStatement := `UPDATE exercises 
+					SET WEIGHT = '%s', REPS = '%d', SETS = '%d', NOTES = '%s'
+					WHERE id = '%d';`
+
+	sqlStatement = fmt.Sprintf(sqlStatement, ex.Weight, ex.Reps, ex.Sets, ex.Notes, ex.ExID)
+
+	exec(path,sqlStatement)
 }
 
 // InsertSet - insert one set into DB
 func InsertSet(path string, ex models.Set) {
 
-	sqlStatement := `INSERT INTO sets (DATE, NAME, COLOR, WEIGHT, REPS) 
-	VALUES ('%s','%s','%s','%v','%d');`
+	sqlStatement := `INSERT INTO sets (DATE, NAME, COLOR, WEIGHT, REPS, SETS, NOTES) 
+	VALUES ('%s','%s','%s','%v','%d', '%d', '%s');`
 
 	ex.Name = quoteStr(ex.Name)
 

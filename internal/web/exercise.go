@@ -8,8 +8,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/shopspring/decimal"
 
-	"github.com/aceberg/ExerciseDiary/internal/db"
-	"github.com/aceberg/ExerciseDiary/internal/models"
+	"github.com/bcpdoc/ExerciseDiary/internal/db"
+	"github.com/bcpdoc/ExerciseDiary/internal/models"
 )
 
 func exerciseHandler(c *gin.Context) {
@@ -52,11 +52,15 @@ func saveExerciseHandler(c *gin.Context) {
 	id := c.PostForm("id")
 	weight := c.PostForm("weight")
 	reps := c.PostForm("reps")
+	sets := c.PostForm("sets")
 
 	oneEx.ID, _ = strconv.Atoi(id)
 	oneEx.Weight, _ = decimal.NewFromString(weight)
 	oneEx.Reps, _ = strconv.Atoi(reps)
+	oneEx.Sets, _ = strconv.Atoi(sets)
 
+	oneEx.Notes = c.PostForm("notes")
+	
 	// log.Println("ONEEX =", oneEx)
 
 	if oneEx.ID != 0 {

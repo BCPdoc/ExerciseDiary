@@ -3,9 +3,9 @@ package conf
 import (
 	"github.com/spf13/viper"
 
-	"github.com/aceberg/ExerciseDiary/internal/auth"
-	"github.com/aceberg/ExerciseDiary/internal/check"
-	"github.com/aceberg/ExerciseDiary/internal/models"
+	"github.com/bcpdoc/ExerciseDiary/internal/auth"
+	"github.com/bcpdoc/ExerciseDiary/internal/check"
+	"github.com/bcpdoc/ExerciseDiary/internal/models"
 )
 
 // Get - read config from file or env

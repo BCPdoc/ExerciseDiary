@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/aceberg/ExerciseDiary/internal/models"
+	"github.com/bcpdoc/ExerciseDiary/internal/models"
 )
 
 func generateHeatMap() (heatMap []models.HeatMapData) {
