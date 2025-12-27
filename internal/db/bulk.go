@@ -9,7 +9,11 @@ func BulkAddSets(path string, allExs []models.Set) {
 	var oneEx models.Set
 
 	for _, oneEx = range allExs {
+		UpdateEx(path, oneEx)
 		InsertSet(path, oneEx)
+		//DeleteEx(path, oneEx.ExID)
+		//InsertEx(path, oneEx)
+
 	}
 }
 

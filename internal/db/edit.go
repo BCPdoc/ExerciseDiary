@@ -2,7 +2,7 @@ package db
 
 import (
 	"fmt"
-
+	"log"
 	"github.com/bcpdoc/ExerciseDiary/internal/models"
 )
 
@@ -32,7 +32,8 @@ func Create(path string) {
 		"WEIGHT"	INTEGER,
 		"REPS"		INTEGER,
 		"COUNT"		INTEGER,
-		"NOTES"		TEXT
+		"NOTES"		TEXT,
+	    "EXID"	    INTEGER
 	);`
 	exec(path, sqlStatement)
 
@@ -62,14 +63,26 @@ func InsertEx(path string, ex models.Exercise) {
 func UpdateEx(path string, ex models.Set) {
 
 	sqlStatement := `UPDATE exercises 
-					SET WEIGHT = '%s', REPS = '%d', COUNT = '%d', NOTES = '%s'
-					WHERE id = '%d';`
-
+					SET WEIGHT = '%v', 
+						REPS = '%d', 
+						COUNT = '%d', 
+						NOTES = '%s'
+					WHERE ID = '%d';`
+	log.Println("ExID:", ex.ExID)
 	sqlStatement = fmt.Sprintf(sqlStatement, ex.Weight, ex.Reps, ex.Count, ex.Notes, ex.ExID)
 
 	exec(path,sqlStatement)
 }
+/*
+func dothisinstead(oneEx models.Set) {
+	
+	if oneEx.ID != 0 {
+		db.DeleteEx(appConfig.DBPath, oneEx.ID)
+	}
 
+	db.InsertEx(appConfig.DBPath, oneEx)
+}
+*/
 // InsertSet - insert one set into DB
 func InsertSet(path string, ex models.Set) {
 
@@ -78,7 +91,7 @@ func InsertSet(path string, ex models.Set) {
 
 	ex.Name = quoteStr(ex.Name)
 
-	sqlStatement = fmt.Sprintf(sqlStatement, ex.Date, ex.Name, ex.Color, ex.Weight, ex.Reps)
+	sqlStatement = fmt.Sprintf(sqlStatement, ex.Date, ex.Name, ex.Color, ex.Weight, ex.Reps, ex.Count, ex.Notes)
 
 	exec(path, sqlStatement)
 }

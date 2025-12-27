@@ -1,7 +1,7 @@
 package web
 
 import (
-	// "log"
+	"log"
 	"net/http"
 	"strconv"
 
@@ -22,10 +22,10 @@ func setHandler(c *gin.Context) {
 	_ = c.PostFormMap("sets")
 
 	formMap := c.Request.PostForm
-	// log.Println("MAP:", formMap)
+	log.Println("MAP:", formMap)
 
 	len := len(formMap["name"])
-	// log.Println("LEN:", len)
+	log.Println("LEN:", len)
 	date := formMap["date"][0]
 
 	for i := 0; i < len; i++ {
@@ -35,8 +35,15 @@ func setHandler(c *gin.Context) {
 		reps, _ = strconv.Atoi(formMap["reps"][i])
 		oneSet.Weight = weight
 		oneSet.Reps = reps
+		/*
+		count, _ = strconv.Atoi(formMap["count"][i])
+		notes = formMap["notes"][i]
 		oneSet.Count = count
 		oneSet.Notes = notes
+
+		exID, _ = decimal.NewFromString(formMap["ExID"][i])
+		oneSet.ExID = exID
+		*/
 
 		formData = append(formData, oneSet)
 	}

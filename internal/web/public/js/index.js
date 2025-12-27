@@ -1,24 +1,33 @@
 var id = 0;
 var today = null;
 
-function addExercise(name, weight, reps, ExID) {
+function addExercise(name, weight, reps, count, notes, ID) {
     // console.log('NAME =', name);
 
     id = id + 1;
-    html_to_insert=`<tr id="${id}">
-    <td>
-        <input name="name" type="text" class="form-control" value="${name}">
-    </td><td>
-        <input name="weight" type="number" step="any" min="0" class="form-control" value="${weight}">
-    </td><td>
-        <input name="reps" type="number" min="0" class="form-control" value="${reps}">
-    </td><td>
-        <button class="btn del-set-button" type="button" title="Delete" onclick="delExercise(${id})">
-            <i class="bi bi-x-square"></i>
-        </button>
-    </td><td>
-        <input name="ID" type="text" class="form-control" value="${ExID}">
-    </td></tr>`;
+    html_to_insert = `<tr id="${id}">
+        <td>
+            <input name="name" type="text" class="form-control" colspan="3" value="${name}">
+        </td>
+        <td>
+            <input name="weight" type="number" step="any" min="0" class="form-control" value="${weight}">
+        </td><td>
+            <input name="reps" type="number" min="0" class="form-control" value="${reps}">
+        </td><td>
+            <input name="count" type="number" min="0" class="form-control" value="${count}">
+        </td>
+        <td>
+            <input name="notes" type="text" class="form-control" colspan="2" value="${notes}">
+        </td>
+        <td>
+            <button class="btn del-set-button" type="button" title="Delete" onclick="delExercise(${id})">
+                <i class="bi bi-x-square"></i>
+            </button>
+        </td>
+        <td>
+            <input name="ID" type="text" class="form-control" value="${ID}">
+        </td>
+    </tr>`;
 
     document.getElementById('todayEx').insertAdjacentHTML('beforeend', html_to_insert);
 };
@@ -87,7 +96,7 @@ function addAllGroup(exs, gr) {
         let len = exs.length;
         for (let i = 0 ; i < len; i++) {
             if (exs[i].Group == gr) {
-                addExercise(sets[i].Name, sets[i].Weight, sets[i].Reps, sets[i].Count, sets[i].Notes, sets[i].ExID);
+                addExercise(exs[i].Name, exs[i].Weight, exs[i].Reps, exs[i].Count, exs[i].Notes, exs[i].ID);
             }
         }
     }
