@@ -25,7 +25,7 @@ function addExercise(name, weight, reps, count, notes, ID) {
             </button>
         </td>
         <td>
-            <input name="ID" type="text" class="form-control" value="${ID}">
+            <input name="exID" type="number" class="form-control" value="${ID}">
         </td>
     </tr>`;
 

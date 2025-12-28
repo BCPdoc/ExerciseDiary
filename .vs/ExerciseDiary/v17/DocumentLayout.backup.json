@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\db\\edit.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\public\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\models\\models.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -92,9 +92,10 @@
               "RelativeDocumentMoniker": "internal\\models\\models.go",
               "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\models\\models.go",
               "RelativeToolTip": "internal\\models\\models.go",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADAAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-26T04:38:01.925Z"
+              "WhenOpened": "2025-12-26T04:38:01.925Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -116,7 +117,7 @@
               "RelativeDocumentMoniker": "internal\\web\\set.go",
               "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\set.go",
               "RelativeToolTip": "internal\\web\\set.go",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADUAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-12-26T04:24:26.852Z",
               "EditorCaption": ""
@@ -129,7 +130,7 @@
               "RelativeDocumentMoniker": "internal\\db\\bulk.go",
               "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\bulk.go",
               "RelativeToolTip": "internal\\db\\bulk.go",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-12-26T04:24:07.707Z",
               "EditorCaption": ""
@@ -142,7 +143,7 @@
               "RelativeDocumentMoniker": "internal\\db\\edit.go",
               "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\edit.go",
               "RelativeToolTip": "internal\\db\\edit.go",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFsAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD0AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-12-26T04:23:09.06Z",
               "EditorCaption": ""
@@ -161,26 +162,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "index.js",
               "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\js\\index.js",
               "RelativeDocumentMoniker": "internal\\web\\public\\js\\index.js",
               "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\js\\index.js",
               "RelativeToolTip": "internal\\web\\public\\js\\index.js",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAADIAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-12-26T04:06:07.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\index.html",
               "RelativeDocumentMoniker": "internal\\web\\templates\\index.html",
               "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\index.html",
               "RelativeToolTip": "internal\\web\\templates\\index.html",
-              "ViewState": "AgIAAJgAAAAAAAAAAAAgwLwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAgwKMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-12-25T03:54:04.029Z",
               "EditorCaption": ""
