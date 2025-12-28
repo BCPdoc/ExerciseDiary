@@ -46,7 +46,7 @@ type Set struct {
 	Weight decimal.Decimal `db:"WEIGHT"`
 	Reps   int             `db:"REPS"`
 	Count  int             `db:"COUNT"`
-	ExID   int
+	ExID   int             `db:"EXID"`
 	Notes  string          `db:"NOTES"`
 }
 

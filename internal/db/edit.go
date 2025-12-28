@@ -86,12 +86,12 @@ func dothisinstead(oneEx models.Set) {
 // InsertSet - insert one set into DB
 func InsertSet(path string, ex models.Set) {
 
-	sqlStatement := `INSERT INTO sets (DATE, NAME, COLOR, WEIGHT, REPS, COUNT, NOTES) 
-	                           VALUES ('%s', '%s',  '%s',   '%v', '%d', '%d',  '%s');`
+	sqlStatement := `INSERT INTO sets (DATE, NAME, COLOR, WEIGHT, REPS, COUNT, NOTES, EXID) 
+	                           VALUES ('%s', '%s',  '%s',   '%v', '%d', '%d',  '%s', '%d');`
 
 	ex.Name = quoteStr(ex.Name)
 
-	sqlStatement = fmt.Sprintf(sqlStatement, ex.Date, ex.Name, ex.Color, ex.Weight, ex.Reps, ex.Count, ex.Notes)
+	sqlStatement = fmt.Sprintf(sqlStatement, ex.Date, ex.Name, ex.Color, ex.Weight, ex.Reps, ex.Count, ex.Notes, ex.ExID)
 
 	exec(path, sqlStatement)
 }

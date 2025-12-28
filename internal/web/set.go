@@ -18,6 +18,8 @@ func setHandler(c *gin.Context) {
 	var oneSet models.Set
 	var reps int
 	var weight decimal.Decimal
+	var count int
+	var exID int
 
 	_ = c.PostFormMap("sets")
 
@@ -35,15 +37,15 @@ func setHandler(c *gin.Context) {
 		reps, _ = strconv.Atoi(formMap["reps"][i])
 		oneSet.Weight = weight
 		oneSet.Reps = reps
-		/*
+		
 		count, _ = strconv.Atoi(formMap["count"][i])
-		notes = formMap["notes"][i]
+		
 		oneSet.Count = count
-		oneSet.Notes = notes
+		oneSet.Notes = formMap["notes"][i]
 
-		exID, _ = decimal.NewFromString(formMap["ExID"][i])
+		exID, _ = strconv.Atoi(formMap["ExID"][i])
 		oneSet.ExID = exID
-		*/
+		
 
 		formData = append(formData, oneSet)
 	}

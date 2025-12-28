@@ -2,14 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\internal",
-    "\\internal\\conf",
-    "\\internal\\db",
-    "\\internal\\models",
-    "\\internal\\web",
-    "\\internal\\web\\public",
-    "\\internal\\web\\public\\css",
-    "\\internal\\web\\public\\js",
-    "\\internal\\web\\templates"
+    "\\internal\\web"
   ],
   "SelectedNode": "\\internal\\web\\set.go",
   "PreviewInSolutionExplorer": false
