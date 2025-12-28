@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\bulk.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\db\\bulk.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\set.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\set.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\edit.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\db\\edit.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\public\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\edit.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\db\\edit.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\models\\models.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\models\\models.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\bulk.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\db\\bulk.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\index.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "models.go",
               "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\models\\models.go",
               "RelativeDocumentMoniker": "internal\\models\\models.go",
               "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\models\\models.go",
               "RelativeToolTip": "internal\\models\\models.go",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-12-26T04:38:01.925Z",
               "EditorCaption": ""
@@ -111,26 +111,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "set.go",
               "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\set.go",
               "RelativeDocumentMoniker": "internal\\web\\set.go",
               "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\set.go",
               "RelativeToolTip": "internal\\web\\set.go",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-12-26T04:24:26.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "bulk.go",
               "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\bulk.go",
               "RelativeDocumentMoniker": "internal\\db\\bulk.go",
               "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\bulk.go",
               "RelativeToolTip": "internal\\db\\bulk.go",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-12-26T04:24:07.707Z",
               "EditorCaption": ""
@@ -143,7 +143,7 @@
               "RelativeDocumentMoniker": "internal\\db\\edit.go",
               "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\edit.go",
               "RelativeToolTip": "internal\\db\\edit.go",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAD0AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAD0AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-12-26T04:23:09.06Z",
               "EditorCaption": ""
@@ -162,20 +162,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "index.js",
               "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\js\\index.js",
               "RelativeDocumentMoniker": "internal\\web\\public\\js\\index.js",
               "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\js\\index.js",
               "RelativeToolTip": "internal\\web\\public\\js\\index.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA+wCwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-12-26T04:06:07.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\index.html",
               "RelativeDocumentMoniker": "internal\\web\\templates\\index.html",

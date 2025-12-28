@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 	"strconv"
-
+	
 	"github.com/gin-gonic/gin"
 	"github.com/shopspring/decimal"
 
@@ -20,6 +20,7 @@ func setHandler(c *gin.Context) {
 	var weight decimal.Decimal
 	var count int
 	//var exID int
+	//var err int
 
 	_ = c.PostFormMap("sets")
 
@@ -43,8 +44,11 @@ func setHandler(c *gin.Context) {
 		oneSet.Count = count
 		oneSet.Notes = formMap["notes"][i]
 
-		//exID, _ = strconv.Atoi(formMap["ExID"][i])
-		//oneSet.ExID = exID
+		exID, _ := strconv.Atoi(formMap["exID"][i])
+		//log.Println("exID", formMap["exID"][i])
+		//log.Println("exID:", exID)
+
+		oneSet.ExID = exID
 
 		formData = append(formData, oneSet)
 	}

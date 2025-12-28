@@ -1,7 +1,7 @@
 var id = 0;
 var today = null;
 
-function addExercise(name, weight, reps, count, notes, ID) {
+function addExercise(name, weight, reps, count, notes, exID) {
     // console.log('NAME =', name);
 
     id = id + 1;
@@ -25,7 +25,7 @@ function addExercise(name, weight, reps, count, notes, ID) {
             </button>
         </td>
         <td>
-            <input name="exID" type="number" class="form-control" value="${ID}">
+            <input name="exID" type="hidden" class="form-control" value="${exID}">
         </td>
     </tr>`;
 
