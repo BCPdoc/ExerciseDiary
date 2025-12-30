@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\set.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\set.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\bulk.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\db\\bulk.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internal\\web\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\index.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "models.go",
               "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\models\\models.go",
               "RelativeDocumentMoniker": "internal\\models\\models.go",
@@ -111,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "set.go",
               "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\set.go",
               "RelativeDocumentMoniker": "internal\\web\\set.go",
@@ -124,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "bulk.go",
               "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\bulk.go",
               "RelativeDocumentMoniker": "internal\\db\\bulk.go",
@@ -137,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "edit.go",
               "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\db\\edit.go",
               "RelativeDocumentMoniker": "internal\\db\\edit.go",
@@ -162,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "index.js",
               "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\public\\js\\index.js",
               "RelativeDocumentMoniker": "internal\\web\\public\\js\\index.js",
@@ -175,13 +175,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\index.html",
               "RelativeDocumentMoniker": "internal\\web\\templates\\index.html",
               "ToolTip": "C:\\Design\\PROJECTS\\MOLER\\ExerciseDiary\\internal\\web\\templates\\index.html",
               "RelativeToolTip": "internal\\web\\templates\\index.html",
-              "ViewState": "AgIAAI4AAAAAAAAAAAAgwKMAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-12-25T03:54:04.029Z",
               "EditorCaption": ""
