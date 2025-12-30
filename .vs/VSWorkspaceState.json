@@ -2,7 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\internal",
-    "\\internal\\web"
+    "\\internal\\web",
+    "\\internal\\web\\public",
+    "\\internal\\web\\public\\js",
+    "\\internal\\web\\templates"
   ],
+  "SelectedNode": "\\internal\\web\\public\\js\\index.js",
   "PreviewInSolutionExplorer": false
 }

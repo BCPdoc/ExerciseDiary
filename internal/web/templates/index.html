@@ -123,7 +123,8 @@
                                                 </div>
                                             </div>
                                             <!-- End Modal -->
-                                            <button class="btn exercise-button" onclick='addExercise("{{ .Name }}", "{{ .Weight }}", "{{ .Reps }}", "{{ .Count }}", "{{ .Notes }}", "{{ .ID }}")' title="Weight: {{ .Weight }}; Reps: {{ .Reps }};">{{ .Name }}</button>
+                                            <button class="btn exercise-button" onclick='addExercise("{{ .Name }}", "{{ .Weight }}", "{{ .Reps }}", "{{ .Count }}", "{{ .Notes }}", "{{ .ID }}")' title="Weight: {{ .Weight }}; Reps: {{ .Reps }}; Count: {{ .Count }}">{{ .Name }}
+                                            </button>
                                             <button class="btn add-exercise-button" onclick='addExercise("{{ .Name }}", "{{ .Weight }}", "{{ .Reps }}", "{{ .Count }}", "{{ .Notes }}", "{{ .ID }}")' title="Add">
                                                 <i class="bi bi-arrow-right-square"></i>
                                             </button>
@@ -165,14 +166,11 @@
                             <input name="date" type="hidden" id="formDate">
                             <div class="table-responsive">
                                 <table class="table table-borderless">
-                                    <thead>
-                                    <th class="col-5">Name</th>
-                                    <th class="col-3">Weight</th>
-                                    <th class="col-3">Reps</th>
-                                    <th class="col-3">Count</th>
-                                    <th class="col-5">Notes</th>
-                                    <th class="col-1"></th>
-                                    </thead>
+                                    <!--<thead>
+                                        <th class="col-3">1</th>
+                                        <th class="col-3">2</th>
+                                        <th class="col-3">3</th>
+                                    </thead>-->
                                     <tbody id="todayEx"></tbody>
                                 </table>
                             </div>

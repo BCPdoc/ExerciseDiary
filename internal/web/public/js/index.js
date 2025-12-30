@@ -6,18 +6,32 @@ function addExercise(name, weight, reps, count, notes, exID) {
 
     id = id + 1;
     html_to_insert = `<tr id="${id}">
-        <td>
-            <input name="name" type="text" class="form-control" colspan="3" value="${name}">
-        </td>
-        <td>
-            <input name="weight" type="number" step="any" min="0" class="form-control" value="${weight}">
-        </td><td>
-            <input name="reps" type="number" min="0" class="form-control" value="${reps}">
-        </td><td>
-            <input name="count" type="number" min="0" class="form-control" value="${count}">
-        </td>
-        <td>
-            <input name="notes" type="text" class="form-control" colspan="2" value="${notes}">
+        <td colspan="6">
+            <figure class="table-responsive">
+                <table class="table table-bordered table-sm m-0">
+                    <tbody>
+                        <tr>
+                            <td colspan="4"> 
+                                <input name="name" type="text" class="form-control" value="${name}">
+                            </td>
+                            <td colspan="2">
+                                <input name="notes" type="text" class="form-control" value="${notes}">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <input name="weight" type="number" step="any" min="0" class="form-control" value="${weight}">
+                            </td>
+                            <td colspan="2">
+                                <input name="reps" type="number" min="0" class="form-control" value="${reps}">
+                            </td>
+                            <td colspan="2">
+                                <input name="count" type="number" min="0" class="form-control" value="${count}">
+                            </td>
+                       </tr>
+                    </tbody>
+                </table>
+            </figure>
         </td>
         <td>
             <button class="btn del-set-button" type="button" title="Delete" onclick="delExercise(${id})">
